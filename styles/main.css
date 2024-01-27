@@ -61,5 +61,17 @@ footer {
 }
 
 p {
-  color: red;
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+li {
+  font-weight: bold;
+}
+
+figcaption {
+  font-style: italic;
 }
