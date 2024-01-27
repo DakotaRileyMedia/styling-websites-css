@@ -116,3 +116,6 @@ h4 {
   font-size: 24px;
 }
 
+#leftmenu > ul > li > ul > li > a {
+  color: red;
+}
