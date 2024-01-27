@@ -104,3 +104,8 @@ h4 {
 .promotion img {
   width: 50%;
 }
+
+.promotion-purple {
+  background-color: #a693c2;
+  border-color: #23cea6;
+}
